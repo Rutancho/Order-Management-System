@@ -1,0 +1,3 @@
+reflect
+
+Working on milestones has been a great opportunity for me to become more familiar with STL and other new features I have been learning. However, I still feel a significant lack in my understanding, which makes me realize the need for more time and practice.

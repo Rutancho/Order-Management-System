@@ -1,0 +1,22 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Build results
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]*/
+build/
+bin/
+obj/
+
+# 기타 불필요한 파일
+*.log
+*.tmp
